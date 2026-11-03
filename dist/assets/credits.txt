@@ -1,0 +1,33 @@
+Website image and font sources
+
+logo.jpg — Original logo supplied by the user, copied without modification.
+
+bathroom-hero.jpg — Ela De Pure / Unsplash
+https://unsplash.com/photos/a-luxurious-bathroom-with-a-freestanding-bathtub-JGfXR2a8RNg
+Image: https://images.unsplash.com/photo-1753605788101-04d1e653e74a
+Unsplash License: https://unsplash.com/license
+Downloaded at 1800×1939. Warm stone bathroom with freestanding tub and black fixtures.
+
+heat-pump.jpg — alpha innotec / Unsplash
+https://unsplash.com/photos/modern-outdoor-heat-pump-unit-next-to-building-TDtycnfiDa8
+Image: https://images.unsplash.com/photo-1776860150272-653efc74193c
+Unsplash License: https://unsplash.com/license
+Downloaded at 1600×1203. Modern air-source heat pump next to a modern home.
+
+bathroom-detail.jpg — Katya Frost / Pexels
+https://www.pexels.com/photo/modern-minimalist-bathroom-with-freestanding-tub-33652399/
+Image: https://images.pexels.com/photos/33652399/pexels-photo-33652399.jpeg
+Pexels License: https://www.pexels.com/license/
+Downloaded at 1200×900. Bright bathroom behind black steel framed glass door.
+
+plumbing-detail.jpg — МОБО Модульные Котельные / Pexels
+https://www.pexels.com/photo/34938450/
+Image: https://images.pexels.com/photos/34938450/pexels-photo-34938450.jpeg
+Pexels License: https://www.pexels.com/license/
+Downloaded at 1400×1867. Gloved professional working on clean manifold installation.
+
+manrope-latin.woff2 / manrope-latin-ext.woff2 — Manrope variable font, weights 400–800
+https://fonts.google.com/specimen/Manrope
+https://github.com/google/fonts/tree/main/ofl/manrope
+Local license: manrope-license.txt
+The Latin subset includes German umlauts (ÄÖÜäöüß).
